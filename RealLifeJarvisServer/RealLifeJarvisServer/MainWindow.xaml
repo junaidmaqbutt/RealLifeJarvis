@@ -1,0 +1,18 @@
+﻿<Window x:Class="RealLifeJarvisServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealLifeJarvisServer"
+        mc:Ignorable="d"
+        Title="#RealLifeJarvis" Height="400" Width="275" Closing="Window_Closing">
+    <Window.Background>
+        <SolidColorBrush Color="White"/>
+    </Window.Background>
+    <Grid>
+        <Label Content="Real Life Jarvis Twitter Server" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Cambria" FontSize="18.667" FontStyle="Italic" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Tweeted" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Cambria" FontSize="18.667" FontStyle="Italic" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="5,59,186,0" Width="77"/>
+        <Label x:Name="Count" Content="0" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Cambria" FontSize="18.667" FontStyle="Italic" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="79,59,136,0" Width="53" FontWeight="Bold"/>
+        <Label Content="In Past 15 Min" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Cambria" FontSize="18.667" FontStyle="Italic" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="125,59,10,0" Width="133"/>
+    </Grid>
+</Window>

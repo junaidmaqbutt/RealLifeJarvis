@@ -1,0 +1,83 @@
+//@@StartKeyword*********************
+//open start play close exit search find google time date day weather report
+//music alarm remind reminder home automation dictation help about backup restore settings outside
+//hide weather report update name email
+//@@EndKeyword******************
+//******************************
+// Command 1a Start Program - Web-Page
+//******************************
+hey travis i want you to open my Start run google facebook fiverr twitter youtube baidu wikipedia hotmail live yahoo wordpress bing browser computer mycomputer explorer|Opening %Name Sir#1a
+//******************************
+// Command 2a Close Program /Web-Page
+//******************************
+//hey travis i want you to exit close|Closing %Name#2a
+//******************************
+// Command 3a Search Internet
+//******************************
+hey travis i want you to search find google for at on internet the|The Search Module is Up and Running Sir#3a
+//******************************
+//******************************
+// Command 4a Execute Command CMD
+//******************************
+hey travis i want you to lock my computer log out|All Done#4a
+//******************************
+// Command 4b-f Execute General Command
+//******************************
+so hey travis i want you to tell me What whats the time is it|The Time is %data#4b
+so hey travis i want you to tell me What whats the day is it|Today is %data#4c
+so hey travis i want you to tell me what Whats the date is it|Its %data#4d
+so hey travis i want you to tell me Hows how is the weather it is outside|%data#4e
+so hey travis i want you to compile make create me a report on|Compiling Right Away Sir#4f
+//******************************
+// Command 5a-g VAAIVA Task
+//******************************
+//******************************
+// Command 7a-b Download Stuff
+//******************************
+//******************************
+// Command 8 Home Automation
+//******************************
+//******************************
+// Command 9a Alarm Set
+//******************************
+after wake up at make hey travis i want you to tell me create an a new alarm module|%data#9a
+//******************************
+// Command 9b Reminder
+//******************************
+hey travis i want you to remind me create a new make reminder module|OK i'l remind you#9b
+//******************************
+// Open Command 10a-k VAAIVA Modules
+//******************************
+open up the hey travis i want you to start load display show panel module window home automation|Here you go Sir#10a
+open up the hey travis i want you to start load display show panel module window Alarm|All done Sir#10b
+open up the hey travis i want you to start load display show panel module window Enable Dication Mode|Enabling Dictation Mode#10c
+open up the hey travis i want you to start load display show panel module window need some help|Here you go sir#10d
+open up the hey travis i want you to start load display show panel module window about me|opening about me#10e
+open up the hey travis i want you to start load display show panel module window create make backup|Loading Backup Module#10f
+open up the hey travis i want you to start load display show panel module window create make restore|Loading Restore Module#10f
+open up the hey travis i want you to start load display show panel module window settings setting|opening settings#10g
+open up the hey travis i want you to start load display show panel module window weather temprature|#10h
+open up the hey travis i want you to start load display show panel module window report compiler|Report compiler is up and running#10i
+open up the hey travis i want you to start load display show panel module window update|Update panel displayed#10j
+open up the hey travis i want you to start load display show panel module window Play Some Music player|Music Player Started#10k
+//******************************
+// Close Command 11a-k VAAIVA Modules
+//******************************
+close the hey travis i want you to exit unload hide destroy panel module window|Panel has been Closed#11a
+close the hey travis i want you to exit unload hide destroy panel module window home automation|Here you go Sir#11a
+close the hey travis i want you to exit unload hide destroy panel module window Alarm|All done Sir#11b
+close the hey travis i want you to exit unload hide destroy panel module window Disable Dication Mode|Disabling Dictation Mode#11c
+close the hey travis i want you to exit unload hide destroy panel module window need any help|Here you go sir#11d
+close the hey travis i want you to exit unload hide destroy panel module window about me|Closing about me#11e
+close the hey travis i want you to exit unload hide destroy panel module window backup|Exiting Backup Module#11f
+close the hey travis i want you to exit unload hide destroy panel module window restore|Closing Restore Module#11f
+close the hey travis i want you to exit unload hide destroy panel module window settings setting|closing settings#11g
+close the hey travis i want you to exit unload hide destroy panel module window weather temprature|closing weather panel#11h
+close the hey travis i want you to exit unload hide destroy panel module window report compiler|report compiler has been closed#11i
+close the hey travis i want you to exit unload hide destroy panel module window update|Update window closed#11j
+close the hey travis i want you to exit unload hide destroy panel module window Stop Some Music player|Music Player Closed#11k
+//************************************
+// Command 12 User Profile Questions
+//************************************
+whats what do you know so travis tell me is i want you to who am i my name|%data#12a
+whats what do you know so travis tell me is i want you to who my email id|%data#12b

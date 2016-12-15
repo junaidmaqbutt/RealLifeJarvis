@@ -1,0 +1,58 @@
+﻿//@@StartWeather****************************
+search get temprature of weather|Temprature of %City is %Temprature#1a
+show open display weather forcast panel|Displayed#1b
+show open display weather panel|Displayed#1c
+//@@EndWeather******************************
+//@@StartKeywordWeather*********************
+//search find get temprature forcast weather
+//@@EndKeywordWeather***********************
+//@@StartUpdate****************************
+update get latest version|%data#1a
+//@@EndUpdate******************************
+//@@StartKeywordUpdate*********************
+//update latest get
+//@@EndKeywordUpdate***********************
+//@@StartMusicPlayer****************************
+stop music pause|Music Stoped#1a
+play start music|#1b
+next song|#1c
+previous song|#1d
+open file song|#1e
+increase volume up|#1f
+decrease volume down lower|#1g
+mute sound|#1h
+unmute sound|#1i
+//@@EndMusicPlayer******************************
+//@@StartKeywordMusicPlayer*********************
+//start stop play pause next open previous increase decrease
+//@@EndKeywordMusicPlayer***********************
+//@@StartDisplayNews****************************
+next news front|%data#1a
+previous news back|%data#1b
+//@@EndDisplayNews******************************
+//@@StartKeywordDisplayNews*********************
+//next previous front back
+//@@EndKeywordDisplayNews***********************
+//@@StartAboutMe****************************
+update get latest check for version|%data#1a
+log out sign|%data#1b
+//@@EndAboutMe******************************
+//@@StartKeywordAboutMe*********************
+//update get latest log out sign
+//@@EndKeywordAboutMe***********************
+//@@StartHomeAutomation****************************
+add new room|%data#1a
+//@@EndHomeAutomation******************************
+//@@StartKeywordHomeAutomation*********************
+//add room new
+//@@EndKeywordHomeAutomation***********************
+//@@StartRoom****************************
+add new appliance device lamp light fan|%data#1a
+turn device off lamp light fan pin|%data#1b
+turn device on lamp light fan pin|%data#1c
+delete device lamp light fan pin|%data#1d
+go back return to home automation|%data#1e
+//@@EndRoom******************************
+//@@StartKeywordRoom*********************
+// add new turn off on delete go back return
+//@@EndKeywordRoom***********************
